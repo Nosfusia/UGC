@@ -5,3 +5,26 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Film.create(nom:"pokemon")
+Film.create(nom:"yugioh")
+Film.create(nom:"digimon")
+Film.create(nom:"avengers")
+Film.create(nom:"captain america")
+Film.create(nom:"hulk")
+Film.create(nom:"thor")
+Film.create(nom:"spiderman")
+Film.create(nom:"Jurassic Park")
+Film.create(nom:"Aquaman")
+
+Film.create(nom:"Batman")
+Film.create(nom:"Superman")
+Film.create(nom:"Flash")
+Film.create(nom:"WonderWoman")
+Film.create(nom:"Dragon 3")
+Film.create(nom:"Justice League")
+Film.create(nom:"Star Wars")
+Film.create(nom:"Naruto")
+Film.create(nom:"Wakfu")
+Film.create(nom:"Mutafukaz")
