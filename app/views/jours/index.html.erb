@@ -1,0 +1,10 @@
+<div class="container">
+  <% @jours.each do |jour| %>
+    <ul>
+      <li><%= link_to jour_path(jour) do %>
+        <h1><%= jour.name %> </h1></li>
+    </ul>
+    <%end%>
+  <% end %>
+</div>
+
